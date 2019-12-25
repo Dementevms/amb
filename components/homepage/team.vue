@@ -5,7 +5,7 @@
         <div class="team__items">
           <div class="team__item">
             <div class="team__item-image">
-              <img src="/user02.jpg" alt="">
+              <img src="/unit02.jpg" alt="">
             </div>
             <div class="team__item-title">Меньшикова Анастасия </div>
             <div class="team__item-skill">Управление маркетингом</div>
@@ -13,7 +13,7 @@
           </div>
           <div class="team__item">
             <div class="team__item-image">
-              <img src="/user02.jpg" alt="">
+              <img src="/unit01.jpg" alt="">
             </div>
             <div class="team__item-title">Антонова Елена</div>
             <div class="team__item-skill">Управление персоналом</div>
@@ -21,7 +21,7 @@
           </div>
           <div class="team__item">
             <div class="team__item-image">
-              <img src="/user02.jpg" alt="">
+              <img src="/unit03.jpg" alt="">
             </div>
             <div class="team__item-title">Меньшикова Лариса</div>
             <div class="team__item-skill">Управление финансами</div>
