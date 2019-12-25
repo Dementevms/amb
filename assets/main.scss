@@ -1,0 +1,58 @@
+body, html {
+  --colorWhite: #FFF;
+  --colorBlack: #000;
+  --colorBlue: #4c638bff;
+  --colorGreen: #005d67ff;
+  --colorGrey: #CCC;
+  --colorDarkGrey: #6c6d70;
+  --colorSilver: #c4d1da;
+  --colorDirtyWhite: #f1f1f1;
+  --colorRed: #F00;
+  --border: 1px solid #CCC;
+
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+.container {
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 960px;
+}
+colorBlack
+.col {
+  padding: 0 15px;
+}
+
+.btn {
+  display: inline-block;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+  background-color: #F00;
+  padding: 10px 30px;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #FFF;
+}
+
+.btn-big {
+  padding: 20px 40px;
+  font-size: 24px;
+}
+
+.btn-medium {
+  padding: 20px 40px;
+  font-size: 18px;
+}
+
+.btn-blue {
+  background: #4c638bff;
+  color: var(--colorWhite);
+}
+
+.btn-grey {
+  background: var(--colorGrey);
+}
